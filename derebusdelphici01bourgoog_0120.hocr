@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./derebusdelphici01bourgoog_0120.png"; bbox 0 0 3692 5643; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3677 1452 3688 1669">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3677 1452 3688 1669">
+     <span class='ocr_line' id='line_1_1' title="bbox 3677 1452 3688 1669"><span class='ocrx_word' id='word_1_1' title='bbox 3677 1452 3688 1669; x_wconf 34' lang='lat'><strong><em>1:11⁴*</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3668 5013 3688 5266">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3668 5013 3688 5266">
+     <span class='ocr_line' id='line_1_2' title="bbox 3668 5013 3688 5266; baseline -126.5 2024"><span class='ocrx_word' id='word_1_2' title='bbox 3686 5013 3687 5090; x_wconf 48' lang='grc' dir='ltr'><strong><em>,1η</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 3668 5115 3687 5190; x_wconf 37' lang='grc' dir='ltr'><strong><em>..4η</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 3684 5217 3688 5266; x_wconf 51' lang='lat'><strong><em>01</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./derebusdelphici01bourgoog_0013.png"; bbox 0 0 3692 5643; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1347 2125 1939 2183">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1347 2125 1939 2183">
+     <span class='ocr_line' id='line_1_1' title="bbox 1347 2125 1939 2183; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 1347 2126 1425 2179; x_wconf 94' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_2' title='bbox 1536 2125 1939 2183; x_wconf 86' lang='lat' dir='ltr'><strong>MEMORIAM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1176 2339 2111 2408">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1176 2339 2111 2408">
+     <span class='ocr_line' id='line_1_2' title="bbox 1176 2339 2111 2408; baseline 0 -2"><span class='ocrx_word' id='word_1_3' title='bbox 1176 2340 1676 2407; x_wconf 90' lang='lat' dir='ltr'>LVDOVICI</span> <span class='ocrx_word' id='word_1_4' title='bbox 1772 2339 2111 2408; x_wconf 89' lang='lat' dir='ltr'><strong>COUVE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1497 2587 1737 2635">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1497 2587 1737 2635">
+     <span class='ocr_line' id='line_1_3' title="bbox 1497 2587 1737 2635; baseline 0.008 -2"><span class='ocrx_word' id='word_1_5' title='bbox 1497 2587 1737 2635; x_wconf 73' lang='lat' dir='ltr'><strong>AMICl</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
